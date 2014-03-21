@@ -1,0 +1,7 @@
+SEARCH_PARAMETERS
+elements = 10
+generations = 100
+maximumX = 10
+minimumX = -10
+alpha = 0.1
+radius = 1
